@@ -2,7 +2,7 @@
 
 Let's implement a Towers of Hanoi game in JavaScript!
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
